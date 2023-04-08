@@ -60,7 +60,7 @@ let songs = [
     coverPath: "cover/9.jpg",
   },
   {
-    songName: "A.R. Rahman - Roobaroo | Rang De Basanti",
+    songName: "A.R. Rahman - Roobaroo|Rang De Basanti",
     filePath: "song/10.mp3",
     coverPath: "cover/10.jpeg",
   },
