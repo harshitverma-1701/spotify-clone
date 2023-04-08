@@ -18,11 +18,11 @@ Welcome to Spotify Clone, a web application built using HTML, CSS, and JavaScrip
 
 ## Features
 Spotify Clone includes several features that allow users to:
--Responsive design that adapts to different screen sizes
--Customized player controls that allow users to play, pause the songs
--Appealing song collections with midnight melodies.
--Smooth animations and transitions that enhance the user experience
--Customized hover effects on buttons and links
+- Responsive design that adapts to different screen sizes
+- Customized player controls that allow users to play, pause the songs
+- Appealing song collections with midnight melodies.
+- Smooth animations and transitions that enhance the user experience
+- Customized hover effects on buttons and links
 
 
 ## Technologies Used
