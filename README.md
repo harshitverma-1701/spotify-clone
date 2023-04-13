@@ -35,7 +35,9 @@ Spotify Clone includes several features that allow users to:
 2. Open the 'index.html' file in your web browser.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright (c) Harshit Verma. All rights reserved.
+Licensed under [MIT](LICENSE) License.
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
